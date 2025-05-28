@@ -1,0 +1,2 @@
+central repository
+ type this command in cmd ipconfig
